@@ -11,5 +11,4 @@ Explore distributed PV trends across the US along with contributing factors.
 - Socioeconomic - [Census (package to interact with API)](https://jtleider.github.io/censusdata/index.html)
 - Incentives & Policies - [DSIRE](http://www.dsireusa.org/resources/database-archives/)
 
-
-
+A list of variables in final dataset can be found in `main-data-dict.csv`.
